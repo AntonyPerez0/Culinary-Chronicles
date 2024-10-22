@@ -9,3 +9,10 @@ h1 {
 h3 {
   text-align: center;
 }
+img {
+  width: 300px;
+  height: 200px;
+}
+body {
+  font-family: monospace;
+}
