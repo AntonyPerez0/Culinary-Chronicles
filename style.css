@@ -6,8 +6,9 @@ h1 {
   text-align: center;
   text-shadow: #fc0 1px 0 10px;
 }
-h3 {
+h4 {
   text-align: center;
+  font-size: larger;
 }
 img {
   width: 300px;
@@ -15,4 +16,16 @@ img {
 }
 body {
   font-family: monospace;
+
 }
+ .content {
+  
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2px;
+ }
+
+ img {
+  border: solid 4px burlywood;
+ }
